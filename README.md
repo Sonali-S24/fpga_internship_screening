@@ -14,18 +14,6 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ---
 
-## 🛠️ Tools Used
-- **Yosys** – for synthesis
-- **Icarus Verilog (iverilog)** – for simulation
-- **GTKWave** – for waveform viewing
-
----
-
-# FPGA Internship Screening
-
-This repository contains Verilog implementations, simulations, and synthesis outputs for multiple digital design modules using Icarus Verilog, GTKWave, and Yosys.
-
----
 
 ## 🧠 Tools Used
 - Icarus Verilog (iverilog)
@@ -46,7 +34,7 @@ This repository contains Verilog implementations, simulations, and synthesis out
 
 ## 🔧 Synthesis Output
 
-![MUX Yosys](good_mux_yosys_show.png)
+![MUX Yosys](good_mux.yosys_show.png)
 
 ---
 
@@ -62,7 +50,7 @@ This repository contains Verilog implementations, simulations, and synthesis out
 ![Reset 1 to 0](dff_async_set_reset1to0_zoomed.png)
 
 ### 🔧 Yosys Output
-![Async Set Synthesis](dff_async_set_yosys_show.png)
+![Async Set Synthesis](dff_async_set.yosys_show.png)
 
 ---
 
@@ -74,7 +62,7 @@ This repository contains Verilog implementations, simulations, and synthesis out
 ![Async Reset Zoom](dff_asyncres_gtkwave_reset_zoomed.png)
 
 ### 🔧 Yosys Output
-![Async Reset Synthesis](dff_asyncres_yosys_show.png)
+![Async Reset Synthesis](dff_asyncres.yosys_show.png)
 
 ---
 
@@ -86,7 +74,7 @@ This repository contains Verilog implementations, simulations, and synthesis out
 ![Sync Reset Zoom](dff_syncres_zoomed.png)
 
 ### 🔧 Yosys Output
-![Sync Reset Synthesis](dff_syncres_yosys_show.png)
+![Sync Reset Synthesis](dff_syncres.yosys_show.png)
 
 ---
 
@@ -105,9 +93,9 @@ This repository contains Verilog implementations, simulations, and synthesis out
 
 ## 🔧 Synthesis Outputs
 
-![2-bit Yosys](mul2_yosys_show.png)
+![2-bit Yosys](mul2.yosys_show.png)
 
-![8-bit Yosys](mult_8_yosys_show.png)
+![8-bit Yosys](mult_8.yosys_show.png)
 
 ---
 
@@ -127,7 +115,7 @@ This repository contains Verilog implementations, simulations, and synthesis out
 
 ![Hierarchical Yosys](multiple_modules_yosys_show.png)
 
-![Flat Yosys](multiple_modules_flat_yosys_show.png)
+![Flat Yosys](multiple_modules_flat.yosys_show.png)
 
 ---
 
@@ -139,7 +127,7 @@ This repository contains Verilog implementations, simulations, and synthesis out
 
 ## 🔧 Synthesis
 
-![Submodule Yosys](sub_module_1_yosys_show.png)
+![Submodule Yosys](sub_module_1.yosys_show.png)
 
 ---
 
