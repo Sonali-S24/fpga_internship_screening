@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sun May  3 12:23:33 2026
+[*]
+[dumpfile] "/home/vsduser/VSDSquadron_FM/vsd-rtl/sky130RTLDesignAndSynthesisWorkshop/verilog_files/tb_dff_asyncres.vcd"
+[dumpfile_mtime] "Sun May  3 12:20:27 2026"
+[dumpfile_size] 5605
+[savefile] "/home/vsduser/Desktop/lab3/gtkwave_dff_asyncres_l3.gtkw"
+[timestart] 0
+[size] 1360 611
+[pos] -361 -12
+*-19.184540 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 206
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 190
+@28
+tb_dff_asyncres.clk
+tb_dff_asyncres.async_reset
+tb_dff_asyncres.d
+@29
+tb_dff_asyncres.q
+[pattern_trace] 1
+[pattern_trace] 0

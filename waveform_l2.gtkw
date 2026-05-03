@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sun May  3 07:17:19 2026
+[*]
+[dumpfile] "/home/vsduser/VSDSquadron_FM/vsd-rtl/sky130RTLDesignAndSynthesisWorkshop/verilog_files/tb_good_mux.vcd"
+[dumpfile_mtime] "Sun May  3 06:53:49 2026"
+[dumpfile_size] 888
+[savefile] "/home/vsduser/Desktop/lab2/waveform_l2.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-17.314299 65100 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_good_mux.
+[sst_width] 206
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 162
+@28
+tb_good_mux.i0
+tb_good_mux.i1
+tb_good_mux.sel
+@29
+tb_good_mux.y
+[pattern_trace] 1
+[pattern_trace] 0
