@@ -78,7 +78,7 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ---
 
-# 📦 MODULE 3: MULTIPLIERS
+##4: MULTIPLIERS
 
 ## 📜 Verilog Files
 - `mult_2.v` – 2-bit multiplier
@@ -99,7 +99,7 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ---
 
-# 📦 MODULE 4: MULTIPLE MODULES (HIERARCHY vs FLAT)
+##5: MULTIPLE MODULES (HIERARCHY vs FLAT)
 
 ## 📜 Verilog Files
 - `multiple_modules_heir.v` – hierarchical design
@@ -113,13 +113,13 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ## 🔧 Synthesis
 
-![Hierarchical Yosys](multiple_modules_yosys_show.png)
+![Hierarchical Yosys](multiple_modules.yosys_show.png)
 
 ![Flat Yosys](multiple_modules_flat.yosys_show.png)
 
 ---
 
-# 📦 MODULE 5: SUB MODULE
+##6: SUB MODULE
 
 ## 📊 Outputs
 
