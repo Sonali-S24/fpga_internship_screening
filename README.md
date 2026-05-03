@@ -1,6 +1,5 @@
-# fpga_internship_screening
+# FPGA_Internship_Screening
 Verilog implementation and simulation of multiplexer designs using Yosys, Icarus Verilog, and GTKWave with waveform analysis.
-# FPGA Design Lab – Multiplexer using Yosys
 
 ## 📌 Overview
 This repository contains the Verilog implementation and simulation of multiplexer (MUX) designs as part of FPGA RTL design and synthesis learning. The design is simulated using Icarus Verilog and visualized using GTKWave.
@@ -22,4 +21,6 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ---
 
-## 📂 Module 1
+## 📂 Module 1 RTL Simulation and waveform analysis
+
+
