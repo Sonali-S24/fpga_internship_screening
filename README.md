@@ -22,5 +22,5 @@ This repository contains the Verilog implementation and simulation of multiplexe
 ---
 
 ## 📂 Module 1 RTL Simulation and waveform analysis
-
+![Waveform](results/mul2_show.png)
 
