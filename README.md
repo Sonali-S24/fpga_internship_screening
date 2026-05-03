@@ -78,7 +78,7 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ---
 
-##4: MULTIPLIERS
+## 4: MULTIPLIERS
 
 ## 📜 Verilog Files
 - `mult_2.v` – 2-bit multiplier
@@ -99,7 +99,7 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ---
 
-##5: MULTIPLE MODULES (HIERARCHY vs FLAT)
+## 5: MULTIPLE MODULES (HIERARCHY vs FLAT)
 
 ## 📜 Verilog Files
 - `multiple_modules_heir.v` – hierarchical design
@@ -119,7 +119,7 @@ This repository contains the Verilog implementation and simulation of multiplexe
 
 ---
 
-##6: SUB MODULE
+## 6: SUB MODULE
 
 ## 📊 Outputs
 
